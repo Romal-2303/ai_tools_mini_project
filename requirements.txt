@@ -2,3 +2,4 @@ uvicorn
 fastapi
 pymupdf
 python-multipart
+yt-dlp
